@@ -13,6 +13,10 @@ NTS = Not Final Tests
   - This is for when you want to use the .htaccess file to cut out the file extension from the URL when uploading the file to a OFFICAL SERVER/HOSTING (ex: Godaddy)
   
   
+JS Projects = JavaScript Projects
+
+  - This is obvious as to what this folder is dedicated to....
+  
   
 This repository is subject to change when new projects are created.
 
